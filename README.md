@@ -30,8 +30,8 @@ But it's not all about the screens for me. I love going to nature and on really 
 
 ## 📐 - Projects
 
-- **`GO` - Demo-Bank Api**: A REST API for a banking system featuring customers, accounts, and transactions using hexagonal architecture. This project showcases my skills in Go and API development.
-- **`ASP.NET` - Todo-List Api**: A CRUD REST API for handling todo items. This project demonstrates my ability to build and manage APIs using ASP.NET and C#.
+- **`GO` -`Demo-Bank Api`**: A REST API for a banking system featuring customers, accounts, and transactions using hexagonal architecture. This project showcases my skills in Go and API development.
+- **`ASP.NET` - `Todo-List Api`**: A CRUD REST API for handling todo items. This project demonstrates my ability to build and manage APIs using ASP.NET and C#.
 
 ## 📫 - Contact Me
 - 📱 +420 605 401 050
