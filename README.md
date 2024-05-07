@@ -25,7 +25,7 @@ But it's not all about the screens for me. I love going to nature and on really 
 - `PostgreSQL`: A powerful, open-source object-relational database system.
 - `Laravel`: A web application framework with expressive, elegant syntax.
 - `MySQL`: A widely-used open-source relational database management system.
-- `Redis`: An in-memory data structure store, used as a database, cache, and message broker.
+- `Github`: GitHub is a platform that allows developers to create, store, manage and share their code.
 - `Docker`: A platform for developing, shipping, and running applications in containers.
 
 ## 📐 - Projects
@@ -33,7 +33,10 @@ But it's not all about the screens for me. I love going to nature and on really 
 - **`GO` - `Demo-Bank Api`**: A REST API for a banking system featuring customers, accounts, and transactions using hexagonal architecture. This project showcases my skills in Go and API development.
 - **`ASP.NET` - `Todo-List Api`**: A CRUD REST API for handling todo items. This project demonstrates my ability to build and manage APIs using ASP.NET and C#.
 
+- **`ASP.NET` - `Hiking-Tracker Api`**: A REST API for a application like Strava. This project showcase my ability to build complex projects with quality architecture and clean design patterns.
+
 ## 📫 - Contact Me
+
 - 📱 +420 605 401 050
 - 📧 [tobiasfilgas.work@gmail.com](mailto:tobiasfilgas.work@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/tobiasfilgas/)
