@@ -12,21 +12,11 @@ But it's not all about the screens for me. I love going to nature and on really 
 
 ### **Stack**
 
-- `Golang`: A statically typed, compiled language known for its simplicity and efficiency.
-- `C#`: A versatile, object-oriented language used for a variety of applications.
-- `PHP`: A popular server-side scripting language for web development.
-- `SQL`: A standard language for managing and manipulating relational databases.
-- `GIT`: A distributed version control system for tracking changes in source code.
+- `Golang`, `C#`, `PHP`, `SQL`, `GIT`
 
 ### **Frameworks & Technology**
 
-- `ASP.NET`: A framework for building web apps and services with .NET and C#.
-- `Entity Framework`: An ORM for .NET, simplifying database operations.
-- `PostgreSQL`: A powerful, open-source object-relational database system.
-- `Laravel`: A web application framework with expressive, elegant syntax.
-- `MySQL`: A widely-used open-source relational database management system.
-- `Github`: GitHub is a platform that allows developers to create, store, manage and share their code.
-- `Docker`: A platform for developing, shipping, and running applications in containers.
+- `ASP.NET`, `Entity Framework`, `PostgreSQL`, `Laravel`, `MySQL`, `Github`, `Docker`
 
 ## 📐 - Projects
 
