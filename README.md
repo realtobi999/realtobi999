@@ -20,10 +20,10 @@ But it's not all about the screens for me. I love going to nature and on really 
 
 ## 📐 - Projects
 
-- **`GO` - `Demo-Bank Api`**: A REST API for a banking system featuring customers, accounts, and transactions using hexagonal architecture. This project showcases my skills in Go and API development.
+- **`GO` - `Demo-Bank API`**: A REST API for a banking system featuring customers, accounts, and transactions using hexagonal architecture. This project showcases my skills in Go and API development.
 - **`GO` - `In-Memory Database`**: A simple Redis clone built in GO. This project showcase my understanding of database systems.
 
-- **`ASP.NET` - `Hiking-Tracker Api`**: A REST API for a application like Strava. This project showcase my ability to build complex projects with quality architecture and clean design patterns.
+- **`ASP.NET` - `Hike-Tracker API`**: A REST API for a application like Strava. This project showcase my ability to build complex projects with quality architecture and clean design patterns.
 
 ## 📫 - Contact Me
 
