@@ -20,7 +20,7 @@ But it's not all about the screens for me. I love going to nature and on really 
 
 ## 📐 - Projects
 
-- **`ASP.NET` - `Library System API`**: A REST API for a library system featuring users, employees, genres, authors, reviews, books, borrowing system, wishlists and custom email service. All holding together by **60+** tests, **Clean Architecture**. This project showcases my skill in building logic complex API's in ASP.NET!
+- **`ASP.NET` - `Library System API`**: A REST API for a library system featuring users, employees, genres, authors, reviews, books, borrowing system, wishlists and custom email service. All held together by **60+** tests and **Clean Architecture** design. This project showcases my skill in building logic complex API's in ASP.NET!
 - **`GO` - `Demo-Bank API`**: A REST API for a banking system featuring customers, accounts, and transactions using hexagonal architecture. This project showcases my skills in Go and API development.
 - **`GO` - `In-Memory Database`**: A simple Redis clone built in GO. This project showcases my understanding of database systems.
 - **`ASP.NET` - `HikeTracker API`**: A REST API for a application like Strava. This project showcases my ability to build complex projects with quality architecture and clean design patterns.
