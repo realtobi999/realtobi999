@@ -1,4 +1,4 @@
-# 👋 Welcome to My Github Page
+# 👋 - Welcome to my Github Page
 
 ## 👀 - About Me
 
