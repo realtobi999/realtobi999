@@ -4,7 +4,7 @@
 
 ### **Stack**
 
-- `Golang`, `C#`, `PHP`, `SQL`, `GIT`
+- `Python`, `Golang`, `C#`, `PHP`, `SQL`, `GIT`
 
 ### **Frameworks & Technology**
 
