@@ -1,13 +1,5 @@
 # 👋 - Welcome to my Github Page
 
-## 👀 - About Me
-
-I'm a high school student from the Czech Republic. I'm a software developer with about 0.5 years of experience in coding my personal projects.
-
-One thing about me is that I love to learn new stuff, I'm always coding/building websites or api's but also studying documentation on various topics. I pride myself on having solid discipline and good communication skills.
-
-But it's not all about the screens for me. I love going to nature and on really long hikes—it's my way of unwinding. And you know, gotta balance it out with some gym sessions to keep things in check. So yeah, that's me—a student by day, a software enthusiast by night, and a nature and fitness lover whenever I can sneak it in. (Not often)
-
 ## 👨🏽‍💻- Technology
 
 ### **Stack**
