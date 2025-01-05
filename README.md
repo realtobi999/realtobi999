@@ -1,18 +1,18 @@
-# 👋 - Welcome to my Github Page
+# 👋
 
 ## 👨🏽‍💻- Technology
 
 ### **Stack**
 
-- `C#`, `Golang`, `Python`, `PHP`, `SQL`, `GIT`
+- `C#`, `Golang`, `Python`, `SQL`, `GIT`
 
 ### **Frameworks & Technology**
 
-- `ASP.NET`, `Entity Framework`, `PostgreSQL`, `Laravel`, `MySQL`, `Github`, `Docker`
+- `.NET/Core`, `ASP.NET`, `EF`, `PostgreSQL`, `MS SQL`, `Docker`, `Linux`
 
 ## 📐 - Projects
 
-- **`ASP.NET` - `Library System API`**: A REST API for a library system featuring users, employees, genres, authors, reviews, books, borrowing system, wishlists and custom email service. All held together by **60+** tests and **Clean Architecture** design. This project showcases my skill in building logic complex API's in ASP.NET!
+- **`ASP.NET` - `Library System API`**: A REST API for a library system featuring users, employees, genres, authors, reviews, books, borrowing system, custom email service and much more. All held together by **60+** tests and **Clean Architecture** design. This project showcases my skill in building logic complex API's in ASP.NET.
 
 ## 📫 - Contact Me
 
